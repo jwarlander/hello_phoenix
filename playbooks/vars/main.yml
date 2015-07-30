@@ -1,0 +1,4 @@
+---
+app_name: hello_phoenix
+repo_url: "git@github.com:jwarlander/hello_phoenix.git"
+app_port: 3001
